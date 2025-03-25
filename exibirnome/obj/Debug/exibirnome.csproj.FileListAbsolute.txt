@@ -1,0 +1,10 @@
+C:\Users\jose.ehmendes\source\programadordesistemas\exibirnome\obj\Debug\exibirnome.csproj.AssemblyReference.cache
+C:\Users\jose.ehmendes\source\programadordesistemas\exibirnome\obj\Debug\exibirnome.FrmDesign.resources
+C:\Users\jose.ehmendes\source\programadordesistemas\exibirnome\obj\Debug\exibirnome.Properties.Resources.resources
+C:\Users\jose.ehmendes\source\programadordesistemas\exibirnome\obj\Debug\exibirnome.csproj.GenerateResource.cache
+C:\Users\jose.ehmendes\source\programadordesistemas\exibirnome\obj\Debug\exibirnome.csproj.CoreCompileInputs.cache
+C:\Users\jose.ehmendes\source\programadordesistemas\exibirnome\bin\Debug\exibirnome.exe.config
+C:\Users\jose.ehmendes\source\programadordesistemas\exibirnome\bin\Debug\exibirnome.exe
+C:\Users\jose.ehmendes\source\programadordesistemas\exibirnome\bin\Debug\exibirnome.pdb
+C:\Users\jose.ehmendes\source\programadordesistemas\exibirnome\obj\Debug\exibirnome.exe
+C:\Users\jose.ehmendes\source\programadordesistemas\exibirnome\obj\Debug\exibirnome.pdb

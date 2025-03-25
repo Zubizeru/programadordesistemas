@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alertas", "alertas.csproj", "{DA459D2F-1F12-4D88-A765-8F3195F06277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA459D2F-1F12-4D88-A765-8F3195F06277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA459D2F-1F12-4D88-A765-8F3195F06277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA459D2F-1F12-4D88-A765-8F3195F06277}.Debug|x64.ActiveCfg = Debug|x64
+		{DA459D2F-1F12-4D88-A765-8F3195F06277}.Debug|x64.Build.0 = Debug|x64
+		{DA459D2F-1F12-4D88-A765-8F3195F06277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA459D2F-1F12-4D88-A765-8F3195F06277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA459D2F-1F12-4D88-A765-8F3195F06277}.Release|x64.ActiveCfg = Release|x64
+		{DA459D2F-1F12-4D88-A765-8F3195F06277}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7D141D7-2E77-42BA-9CFE-BA00CE1AE95C}
+	EndGlobalSection
+EndGlobal
